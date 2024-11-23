@@ -1,0 +1,16 @@
+{
+    "version":"1.0.0",
+    "name":"my extension",
+    "description":"My best extension",
+    "author":"Anushka",
+    "manifest_version":2,
+    "action":{
+        "default_popup":"index.html",
+        "default_title":"My chrome extension"
+    }
+
+
+
+
+
+}
